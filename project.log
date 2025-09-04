@@ -26,3 +26,174 @@ Number of Locations:        3
 2025-09-02 19:47:26 | INFO | __main__:184 | This module is organized like all Python modules.
 2025-09-02 19:47:26 | INFO | __main__:185 | We write professional Python from the start.
 2025-09-02 19:47:26 | INFO | __main__:186 | END main()...
+2025-09-03 19:23:27 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-03 19:23:50 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-03 19:23:50 | INFO | __main__:40 | Logger loaded.
+2025-09-03 19:23:50.599 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-03 19:23:50 | INFO | __main__:209 | #####################################
+2025-09-03 19:23:50.599 | INFO     | __main__:main:209 - #####################################
+2025-09-03 19:23:50 | INFO | __main__:210 | # Starting execution of main()
+2025-09-03 19:23:50.599 | INFO     | __main__:main:210 - # Starting execution of main()
+2025-09-03 19:23:50 | INFO | __main__:211 | #####################################
+
+2025-09-03 19:23:50.599 | INFO     | __main__:main:211 - #####################################
+
+2025-09-03 19:23:50 | INFO | __main__:213 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-03 19:23:50.599 | INFO     | __main__:main:213 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-03 19:23:50 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-03 19:23:50.599 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-03 19:23:50 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-03 19:23:50.599 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-03 19:23:50 | INFO | __main__:108 | FUNCTION: create_folders_from_list()
+2025-09-03 19:23:50.599 | INFO     | __main__:create_folders_from_list:108 - FUNCTION: create_folders_from_list()
+2025-09-03 19:23:50 | INFO | __main__:109 | PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-03 19:23:50.599 | INFO     | __main__:create_folders_from_list:109 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-03 19:23:50 | INFO | __main__:137 | FUNCTION: create_prefixed_folders()
+2025-09-03 19:23:50.599 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:137 - FUNCTION: create_prefixed_folders()
+2025-09-03 19:23:50 | INFO | __main__:138 | PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-03 19:23:50.599 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:138 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-03 19:23:50 | INFO | __main__:160 | FUNCTION: create_folders_periodically()
+2025-09-03 19:23:50.599 | INFO     | __main__:create_folders_periodically:160 - FUNCTION: create_folders_periodically()
+2025-09-03 19:23:50 | INFO | __main__:161 | PARAMETER: duration_seconds = 5
+2025-09-03 19:23:50.599 | INFO     | __main__:create_folders_periodically:161 - PARAMETER: duration_seconds = 5
+2025-09-03 19:28:27 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-03 19:28:27 | INFO | __main__:40 | Logger loaded.
+2025-09-03 19:28:27.209 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-03 19:28:27 | INFO | __main__:209 | #####################################
+2025-09-03 19:28:27.209 | INFO     | __main__:main:209 - #####################################
+2025-09-03 19:28:27 | INFO | __main__:210 | # Starting execution of main()
+2025-09-03 19:28:27.209 | INFO     | __main__:main:210 - # Starting execution of main()
+2025-09-03 19:28:27 | INFO | __main__:211 | #####################################
+
+2025-09-03 19:28:27.209 | INFO     | __main__:main:211 - #####################################
+
+2025-09-03 19:28:27 | INFO | __main__:213 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-03 19:28:27.209 | INFO     | __main__:main:213 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-03 19:28:27 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-03 19:28:27.209 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-03 19:28:27 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-03 19:28:27.210 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-03 19:28:27 | INFO | __main__:108 | FUNCTION: create_folders_from_list()
+2025-09-03 19:28:27.210 | INFO     | __main__:create_folders_from_list:108 - FUNCTION: create_folders_from_list()
+2025-09-03 19:28:27 | INFO | __main__:109 | PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-03 19:28:27.210 | INFO     | __main__:create_folders_from_list:109 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-03 19:28:27 | INFO | __main__:137 | FUNCTION: create_prefixed_folders()
+2025-09-03 19:28:27.210 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:137 - FUNCTION: create_prefixed_folders()
+2025-09-03 19:28:27 | INFO | __main__:138 | PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-03 19:28:27.210 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:138 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-03 19:28:27 | INFO | __main__:160 | FUNCTION: create_folders_periodically()
+2025-09-03 19:28:27.210 | INFO     | __main__:create_folders_periodically:160 - FUNCTION: create_folders_periodically()
+2025-09-03 19:28:27 | INFO | __main__:161 | PARAMETER: duration_seconds = 5
+2025-09-03 19:28:27.210 | INFO     | __main__:create_folders_periodically:161 - PARAMETER: duration_seconds = 5
+2025-09-03 19:29:53 | INFO | __main__:46 | Logger loaded.
+2025-09-03 19:29:53 | INFO | __main__:172 | STARTING main()..
+2025-09-03 19:29:53 | INFO | __main__:173 | Byline:
+
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-03 19:29:53 | INFO | __main__:184 | This module is organized like all Python modules.
+2025-09-03 19:29:53 | INFO | __main__:185 | We write professional Python from the start.
+2025-09-03 19:29:53 | INFO | __main__:186 | END main()...
