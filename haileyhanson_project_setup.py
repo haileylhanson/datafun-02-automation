@@ -28,7 +28,6 @@ import loguru
 sys.path.append(str(pathlib.Path(__file__).resolve().parent))
 
 # Import local modules
-# TODO: Import your module in the line below instead
 import utils_haileyhanson
 
 #####################################
@@ -147,7 +146,8 @@ def create_prefixed_folders_using_list_comprehension(folder_list: list, prefix: 
 def create_folders_periodically(duration_seconds: int) -> None:
     '''
     Create folders periodically over time.
-
+    Time limit is set to 60 seconds - no folders created after & function exits. 
+    
     Arguments:
     duration_seconds -- The number of seconds to wait between folder creations.
     '''    
@@ -200,7 +200,13 @@ def create_standardized_folders(folder_list: list, to_lowercase: bool = False, r
     logger.info("FUNCTION: create_standardized_folders()")
     logger.info(f"PARAMETERS: folder_list = {folder_list}, to_lowercase = {to_lowercase}, remove_spaces = {remove_spaces}")
 
-    pass
+    for folder in folder_list:
+        if to_lowercase:
+            folder = folder.lower() #set to lowercase
+        if remove_spaces: 
+            folder = folder.replace(" ", "") #replace spaces with nothing
+
+
   
 #####################################
 # Define a main() function for this module.
