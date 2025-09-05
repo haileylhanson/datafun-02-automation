@@ -1,0 +1,9 @@
+2025-09-04 19:23:28 | INFO | __main__:164 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/mkdir_at_60_seconds
+2025-09-04 19:23:28 | INFO | __main__:166 | Sleeping for 5 seconds
+2025-09-04 19:23:43 | INFO | __main__:171 | Reached 60 second limit. Exiting at : 60
+2025-09-04 19:23:43 | INFO | __main__:205 | FUNCTION: create_standardized_folders()
+2025-09-04 19:23:43 | INFO | __main__:206 | PARAMETERS: folder_list = ['North America', 'South America', 'Europe', 'Asia', 'Africa', 'Oceania', 'Middle East'], to_lowercase = True, remove_spaces = True
+2025-09-04 19:23:43 | INFO | __main__:242 | 
+#####################################
+2025-09-04 19:23:43 | INFO | __main__:243 | # Completed execution of main()
+2025-09-04 19:23:43 | INFO | __main__:244 | #####################################

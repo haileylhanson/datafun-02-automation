@@ -136,7 +136,6 @@ def create_prefixed_folders_using_list_comprehension(folder_list: list, prefix: 
         os.makedirs(new_path, exist_ok=True)
         logger.info(f"Created folder: {new_path}") 
 
-  
 
 #####################################
 # Define Function 4. While Loop: 
@@ -156,21 +155,30 @@ def create_folders_periodically(duration_seconds: int) -> None:
     logger.info(f"PARAMETER: duration_seconds = {duration_seconds}")
     
     folder_to_monitor = "."
+    count = 0
 
     while True:
-        if 'sales_data.csv' in os.listdir(folder_to_monitor):
+        folder_name = "/mkdir_at_" + str(count) + "_seconds"
+        new_folder_path :str = str(ROOT_DIR) + folder_name
+        os.makedirs(new_folder_path, exist_ok=True)
+        logger.info(f"Created folder: {new_folder_path}")
+
+        logger.info(f"Sleeping for {duration_seconds} seconds")
+        time.sleep(duration_seconds + 10)
+        count += duration_seconds
+
+        if count > 60:
+            logger.info(f"Exceeded 60 second limit. Exiting at : {count}")
+            break #stop the folder creation loop after 60 second time limit 
+
+        elif folder_name in os.listdir(folder_to_monitor):
             print("File arrived. Starting analysis.")
             break  # Stop the loop once the file is found
         else:
             print("File not yet arrived. Checking again in 10 seconds.")
+            count += 10
             time.sleep(10)  # Wait 10 seconds before checking again
-
-    # TODO: Use a counter or a list to control how many folders to create
-    # TODO: Wait between folder creations using time.sleep()
-    # TODO: Log each wait and creation
-    
-    pass
-
+        
 
 #####################################
 # Define Function 5. For Item in List: 
