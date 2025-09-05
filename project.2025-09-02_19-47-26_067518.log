@@ -1,0 +1,1752 @@
+2025-09-02 19:47:26 | INFO | __main__:46 | Logger loaded.
+2025-09-02 19:47:26 | INFO | __main__:172 | STARTING main()..
+2025-09-02 19:47:26 | INFO | __main__:173 | Byline:
+
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-02 19:47:26 | INFO | __main__:184 | This module is organized like all Python modules.
+2025-09-02 19:47:26 | INFO | __main__:185 | We write professional Python from the start.
+2025-09-02 19:47:26 | INFO | __main__:186 | END main()...
+2025-09-03 19:23:27 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-03 19:23:50 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-03 19:23:50 | INFO | __main__:40 | Logger loaded.
+2025-09-03 19:23:50.599 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-03 19:23:50 | INFO | __main__:209 | #####################################
+2025-09-03 19:23:50.599 | INFO     | __main__:main:209 - #####################################
+2025-09-03 19:23:50 | INFO | __main__:210 | # Starting execution of main()
+2025-09-03 19:23:50.599 | INFO     | __main__:main:210 - # Starting execution of main()
+2025-09-03 19:23:50 | INFO | __main__:211 | #####################################
+
+2025-09-03 19:23:50.599 | INFO     | __main__:main:211 - #####################################
+
+2025-09-03 19:23:50 | INFO | __main__:213 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-03 19:23:50.599 | INFO     | __main__:main:213 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-03 19:23:50 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-03 19:23:50.599 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-03 19:23:50 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-03 19:23:50.599 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-03 19:23:50 | INFO | __main__:108 | FUNCTION: create_folders_from_list()
+2025-09-03 19:23:50.599 | INFO     | __main__:create_folders_from_list:108 - FUNCTION: create_folders_from_list()
+2025-09-03 19:23:50 | INFO | __main__:109 | PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-03 19:23:50.599 | INFO     | __main__:create_folders_from_list:109 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-03 19:23:50 | INFO | __main__:137 | FUNCTION: create_prefixed_folders()
+2025-09-03 19:23:50.599 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:137 - FUNCTION: create_prefixed_folders()
+2025-09-03 19:23:50 | INFO | __main__:138 | PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-03 19:23:50.599 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:138 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-03 19:23:50 | INFO | __main__:160 | FUNCTION: create_folders_periodically()
+2025-09-03 19:23:50.599 | INFO     | __main__:create_folders_periodically:160 - FUNCTION: create_folders_periodically()
+2025-09-03 19:23:50 | INFO | __main__:161 | PARAMETER: duration_seconds = 5
+2025-09-03 19:23:50.599 | INFO     | __main__:create_folders_periodically:161 - PARAMETER: duration_seconds = 5
+2025-09-03 19:28:27 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-03 19:28:27 | INFO | __main__:40 | Logger loaded.
+2025-09-03 19:28:27.209 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-03 19:28:27 | INFO | __main__:209 | #####################################
+2025-09-03 19:28:27.209 | INFO     | __main__:main:209 - #####################################
+2025-09-03 19:28:27 | INFO | __main__:210 | # Starting execution of main()
+2025-09-03 19:28:27.209 | INFO     | __main__:main:210 - # Starting execution of main()
+2025-09-03 19:28:27 | INFO | __main__:211 | #####################################
+
+2025-09-03 19:28:27.209 | INFO     | __main__:main:211 - #####################################
+
+2025-09-03 19:28:27 | INFO | __main__:213 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-03 19:28:27.209 | INFO     | __main__:main:213 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-03 19:28:27 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-03 19:28:27.209 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-03 19:28:27 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-03 19:28:27.210 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-03 19:28:27 | INFO | __main__:108 | FUNCTION: create_folders_from_list()
+2025-09-03 19:28:27.210 | INFO     | __main__:create_folders_from_list:108 - FUNCTION: create_folders_from_list()
+2025-09-03 19:28:27 | INFO | __main__:109 | PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-03 19:28:27.210 | INFO     | __main__:create_folders_from_list:109 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-03 19:28:27 | INFO | __main__:137 | FUNCTION: create_prefixed_folders()
+2025-09-03 19:28:27.210 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:137 - FUNCTION: create_prefixed_folders()
+2025-09-03 19:28:27 | INFO | __main__:138 | PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-03 19:28:27.210 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:138 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-03 19:28:27 | INFO | __main__:160 | FUNCTION: create_folders_periodically()
+2025-09-03 19:28:27.210 | INFO     | __main__:create_folders_periodically:160 - FUNCTION: create_folders_periodically()
+2025-09-03 19:28:27 | INFO | __main__:161 | PARAMETER: duration_seconds = 5
+2025-09-03 19:28:27.210 | INFO     | __main__:create_folders_periodically:161 - PARAMETER: duration_seconds = 5
+2025-09-03 19:29:53 | INFO | __main__:46 | Logger loaded.
+2025-09-03 19:29:53 | INFO | __main__:172 | STARTING main()..
+2025-09-03 19:29:53 | INFO | __main__:173 | Byline:
+
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-03 19:29:53 | INFO | __main__:184 | This module is organized like all Python modules.
+2025-09-03 19:29:53 | INFO | __main__:185 | We write professional Python from the start.
+2025-09-03 19:29:53 | INFO | __main__:186 | END main()...
+2025-09-04 15:41:08 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-04 15:41:08 | INFO | __main__:40 | Logger loaded.
+2025-09-04 15:41:08.371 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-04 15:41:08 | INFO | __main__:213 | #####################################
+2025-09-04 15:41:08.371 | INFO     | __main__:main:213 - #####################################
+2025-09-04 15:41:08 | INFO | __main__:214 | # Starting execution of main()
+2025-09-04 15:41:08.371 | INFO     | __main__:main:214 - # Starting execution of main()
+2025-09-04 15:41:08 | INFO | __main__:215 | #####################################
+
+2025-09-04 15:41:08.371 | INFO     | __main__:main:215 - #####################################
+
+2025-09-04 15:41:08 | INFO | __main__:217 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 15:41:08.371 | INFO     | __main__:main:217 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 15:41:08 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-04 15:41:08.371 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-04 15:41:08 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 15:41:08.372 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 15:41:44 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-04 15:41:44 | INFO | __main__:40 | Logger loaded.
+2025-09-04 15:41:44.336 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-04 15:41:44 | INFO | __main__:213 | #####################################
+2025-09-04 15:41:44.336 | INFO     | __main__:main:213 - #####################################
+2025-09-04 15:41:44 | INFO | __main__:214 | # Starting execution of main()
+2025-09-04 15:41:44.336 | INFO     | __main__:main:214 - # Starting execution of main()
+2025-09-04 15:41:44 | INFO | __main__:215 | #####################################
+
+2025-09-04 15:41:44.337 | INFO     | __main__:main:215 - #####################################
+
+2025-09-04 15:41:44 | INFO | __main__:217 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 15:41:44.337 | INFO     | __main__:main:217 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 15:41:44 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-04 15:41:44.337 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-04 15:41:44 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 15:41:44.337 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 15:42:00 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-04 15:42:00 | INFO | __main__:40 | Logger loaded.
+2025-09-04 15:42:00.851 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-04 15:42:00 | INFO | __main__:213 | #####################################
+2025-09-04 15:42:00.851 | INFO     | __main__:main:213 - #####################################
+2025-09-04 15:42:00 | INFO | __main__:214 | # Starting execution of main()
+2025-09-04 15:42:00.851 | INFO     | __main__:main:214 - # Starting execution of main()
+2025-09-04 15:42:00 | INFO | __main__:215 | #####################################
+
+2025-09-04 15:42:00.851 | INFO     | __main__:main:215 - #####################################
+
+2025-09-04 15:42:00 | INFO | __main__:217 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 15:42:00.851 | INFO     | __main__:main:217 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 15:42:00 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-04 15:42:00.851 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-04 15:42:00 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 15:42:00.851 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 15:42:00 | INFO | __main__:112 | FUNCTION: create_folders_from_list()
+2025-09-04 15:42:00.851 | INFO     | __main__:create_folders_from_list:112 - FUNCTION: create_folders_from_list()
+2025-09-04 15:42:00 | INFO | __main__:113 | PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-04 15:42:00.851 | INFO     | __main__:create_folders_from_list:113 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-04 15:42:00 | INFO | __main__:141 | FUNCTION: create_prefixed_folders()
+2025-09-04 15:42:00.851 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:141 - FUNCTION: create_prefixed_folders()
+2025-09-04 15:42:00 | INFO | __main__:142 | PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-04 15:42:00.851 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:142 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-04 15:42:00 | INFO | __main__:164 | FUNCTION: create_folders_periodically()
+2025-09-04 15:42:00.852 | INFO     | __main__:create_folders_periodically:164 - FUNCTION: create_folders_periodically()
+2025-09-04 15:42:00 | INFO | __main__:165 | PARAMETER: duration_seconds = 5
+2025-09-04 15:42:00.852 | INFO     | __main__:create_folders_periodically:165 - PARAMETER: duration_seconds = 5
+2025-09-04 15:43:22 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-04 15:43:22 | INFO | __main__:40 | Logger loaded.
+2025-09-04 15:43:22.920 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-04 15:43:22 | INFO | __main__:214 | #####################################
+2025-09-04 15:43:22.920 | INFO     | __main__:main:214 - #####################################
+2025-09-04 15:43:22 | INFO | __main__:215 | # Starting execution of main()
+2025-09-04 15:43:22.920 | INFO     | __main__:main:215 - # Starting execution of main()
+2025-09-04 15:43:22 | INFO | __main__:216 | #####################################
+
+2025-09-04 15:43:22.920 | INFO     | __main__:main:216 - #####################################
+
+2025-09-04 15:43:22 | INFO | __main__:218 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 15:43:22.920 | INFO     | __main__:main:218 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 15:43:22 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-04 15:43:22.920 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-04 15:43:22 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 15:43:22.920 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 15:43:22 | INFO | __main__:113 | FUNCTION: create_folders_from_list()
+2025-09-04 15:43:22.920 | INFO     | __main__:create_folders_from_list:113 - FUNCTION: create_folders_from_list()
+2025-09-04 15:43:22 | INFO | __main__:114 | PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-04 15:43:22.920 | INFO     | __main__:create_folders_from_list:114 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-04 15:43:22 | INFO | __main__:142 | FUNCTION: create_prefixed_folders()
+2025-09-04 15:43:22.920 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:142 - FUNCTION: create_prefixed_folders()
+2025-09-04 15:43:22 | INFO | __main__:143 | PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-04 15:43:22.920 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:143 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-04 15:43:22 | INFO | __main__:165 | FUNCTION: create_folders_periodically()
+2025-09-04 15:43:22.920 | INFO     | __main__:create_folders_periodically:165 - FUNCTION: create_folders_periodically()
+2025-09-04 15:43:22 | INFO | __main__:166 | PARAMETER: duration_seconds = 5
+2025-09-04 15:43:22.920 | INFO     | __main__:create_folders_periodically:166 - PARAMETER: duration_seconds = 5
+2025-09-04 15:49:09 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-04 15:49:09 | INFO | __main__:40 | Logger loaded.
+2025-09-04 15:49:09.663 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-04 15:49:09 | INFO | __main__:216 | #####################################
+2025-09-04 15:49:09.663 | INFO     | __main__:main:216 - #####################################
+2025-09-04 15:49:09 | INFO | __main__:217 | # Starting execution of main()
+2025-09-04 15:49:09.663 | INFO     | __main__:main:217 - # Starting execution of main()
+2025-09-04 15:49:09 | INFO | __main__:218 | #####################################
+
+2025-09-04 15:49:09.663 | INFO     | __main__:main:218 - #####################################
+
+2025-09-04 15:49:09 | INFO | __main__:220 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 15:49:09.663 | INFO     | __main__:main:220 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 15:49:09 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-04 15:49:09.664 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-04 15:49:09 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 15:49:09.664 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 15:50:01 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-04 15:50:01 | INFO | __main__:40 | Logger loaded.
+2025-09-04 15:50:01.742 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-04 15:50:01 | INFO | __main__:216 | #####################################
+2025-09-04 15:50:01.742 | INFO     | __main__:main:216 - #####################################
+2025-09-04 15:50:01 | INFO | __main__:217 | # Starting execution of main()
+2025-09-04 15:50:01.742 | INFO     | __main__:main:217 - # Starting execution of main()
+2025-09-04 15:50:01 | INFO | __main__:218 | #####################################
+
+2025-09-04 15:50:01.742 | INFO     | __main__:main:218 - #####################################
+
+2025-09-04 15:50:01 | INFO | __main__:220 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 15:50:01.742 | INFO     | __main__:main:220 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 15:50:01 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-04 15:50:01.742 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-04 15:50:01 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 15:50:01.742 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 15:53:56 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-04 15:53:56 | INFO | __main__:40 | Logger loaded.
+2025-09-04 15:53:56.611 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-04 15:53:56 | INFO | __main__:227 | #####################################
+2025-09-04 15:53:56.611 | INFO     | __main__:main:227 - #####################################
+2025-09-04 15:53:56 | INFO | __main__:228 | # Starting execution of main()
+2025-09-04 15:53:56.611 | INFO     | __main__:main:228 - # Starting execution of main()
+2025-09-04 15:53:56 | INFO | __main__:229 | #####################################
+
+2025-09-04 15:53:56.611 | INFO     | __main__:main:229 - #####################################
+
+2025-09-04 15:53:56 | INFO | __main__:231 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 15:53:56.612 | INFO     | __main__:main:231 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 15:53:56 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-04 15:53:56.612 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-04 15:53:56 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 15:53:56.612 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 15:54:30 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-04 15:54:30 | INFO | __main__:40 | Logger loaded.
+2025-09-04 15:54:30.711 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-04 15:54:30 | INFO | __main__:227 | #####################################
+2025-09-04 15:54:30.711 | INFO     | __main__:main:227 - #####################################
+2025-09-04 15:54:30 | INFO | __main__:228 | # Starting execution of main()
+2025-09-04 15:54:30.711 | INFO     | __main__:main:228 - # Starting execution of main()
+2025-09-04 15:54:30 | INFO | __main__:229 | #####################################
+
+2025-09-04 15:54:30.711 | INFO     | __main__:main:229 - #####################################
+
+2025-09-04 15:54:30 | INFO | __main__:231 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 15:54:30.711 | INFO     | __main__:main:231 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 15:54:30 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-04 15:54:30.711 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-04 15:54:30 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 15:54:30.711 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 15:55:01 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-04 15:55:01 | INFO | __main__:40 | Logger loaded.
+2025-09-04 15:55:01.920 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-04 15:55:01 | INFO | __main__:227 | #####################################
+2025-09-04 15:55:01.920 | INFO     | __main__:main:227 - #####################################
+2025-09-04 15:55:01 | INFO | __main__:228 | # Starting execution of main()
+2025-09-04 15:55:01.920 | INFO     | __main__:main:228 - # Starting execution of main()
+2025-09-04 15:55:01 | INFO | __main__:229 | #####################################
+
+2025-09-04 15:55:01.920 | INFO     | __main__:main:229 - #####################################
+
+2025-09-04 15:55:01 | INFO | __main__:231 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 15:55:01.920 | INFO     | __main__:main:231 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 15:55:01 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-04 15:55:01.920 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-04 15:55:01 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 15:55:01.920 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 15:57:42 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-04 15:57:42 | INFO | __main__:40 | Logger loaded.
+2025-09-04 15:57:42.776 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-04 15:57:42 | INFO | __main__:228 | #####################################
+2025-09-04 15:57:42.776 | INFO     | __main__:main:228 - #####################################
+2025-09-04 15:57:42 | INFO | __main__:229 | # Starting execution of main()
+2025-09-04 15:57:42.776 | INFO     | __main__:main:229 - # Starting execution of main()
+2025-09-04 15:57:42 | INFO | __main__:230 | #####################################
+
+2025-09-04 15:57:42.776 | INFO     | __main__:main:230 - #####################################
+
+2025-09-04 15:57:42 | INFO | __main__:232 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 15:57:42.776 | INFO     | __main__:main:232 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 15:57:42 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-04 15:57:42.776 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-04 15:57:42 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 15:57:42.776 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:00:04 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-04 16:00:04 | INFO | __main__:40 | Logger loaded.
+2025-09-04 16:00:04.731 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-04 16:00:04 | INFO | __main__:228 | #####################################
+2025-09-04 16:00:04.731 | INFO     | __main__:main:228 - #####################################
+2025-09-04 16:00:04 | INFO | __main__:229 | # Starting execution of main()
+2025-09-04 16:00:04.731 | INFO     | __main__:main:229 - # Starting execution of main()
+2025-09-04 16:00:04 | INFO | __main__:230 | #####################################
+
+2025-09-04 16:00:04.731 | INFO     | __main__:main:230 - #####################################
+
+2025-09-04 16:00:04 | INFO | __main__:232 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:00:04.731 | INFO     | __main__:main:232 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:00:04 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-04 16:00:04.731 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-04 16:00:04 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:00:04.731 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:00:04 | INFO | __main__:95 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2020
+2025-09-04 16:00:04.731 | INFO     | __main__:create_folders_for_range:95 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2020
+2025-09-04 16:00:04 | INFO | __main__:95 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2021
+2025-09-04 16:00:04.731 | INFO     | __main__:create_folders_for_range:95 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2021
+2025-09-04 16:00:04 | INFO | __main__:95 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2022
+2025-09-04 16:00:04.731 | INFO     | __main__:create_folders_for_range:95 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2022
+2025-09-04 16:00:04 | INFO | __main__:95 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2023
+2025-09-04 16:00:04.731 | INFO     | __main__:create_folders_for_range:95 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2023
+2025-09-04 16:00:04 | INFO | __main__:127 | FUNCTION: create_folders_from_list()
+2025-09-04 16:00:04.731 | INFO     | __main__:create_folders_from_list:127 - FUNCTION: create_folders_from_list()
+2025-09-04 16:00:04 | INFO | __main__:128 | PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-04 16:00:04.731 | INFO     | __main__:create_folders_from_list:128 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-04 16:00:04 | INFO | __main__:156 | FUNCTION: create_prefixed_folders()
+2025-09-04 16:00:04.731 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:156 - FUNCTION: create_prefixed_folders()
+2025-09-04 16:00:04 | INFO | __main__:157 | PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-04 16:00:04.731 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:157 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-04 16:00:04 | INFO | __main__:179 | FUNCTION: create_folders_periodically()
+2025-09-04 16:00:04.731 | INFO     | __main__:create_folders_periodically:179 - FUNCTION: create_folders_periodically()
+2025-09-04 16:00:04 | INFO | __main__:180 | PARAMETER: duration_seconds = 5
+2025-09-04 16:00:04.731 | INFO     | __main__:create_folders_periodically:180 - PARAMETER: duration_seconds = 5
+2025-09-04 16:08:43 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-04 16:08:43 | INFO | __main__:40 | Logger loaded.
+2025-09-04 16:08:43.843 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-04 16:08:43 | INFO | __main__:228 | #####################################
+2025-09-04 16:08:43.843 | INFO     | __main__:main:228 - #####################################
+2025-09-04 16:08:43 | INFO | __main__:229 | # Starting execution of main()
+2025-09-04 16:08:43.844 | INFO     | __main__:main:229 - # Starting execution of main()
+2025-09-04 16:08:43 | INFO | __main__:230 | #####################################
+
+2025-09-04 16:08:43.844 | INFO     | __main__:main:230 - #####################################
+
+2025-09-04 16:08:43 | INFO | __main__:232 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:08:43.844 | INFO     | __main__:main:232 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:08:43 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-04 16:08:43.844 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-04 16:08:43 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:08:43.844 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:09:16 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-04 16:09:16 | INFO | __main__:40 | Logger loaded.
+2025-09-04 16:09:16.512 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-04 16:09:16 | INFO | __main__:228 | #####################################
+2025-09-04 16:09:16.512 | INFO     | __main__:main:228 - #####################################
+2025-09-04 16:09:16 | INFO | __main__:229 | # Starting execution of main()
+2025-09-04 16:09:16.512 | INFO     | __main__:main:229 - # Starting execution of main()
+2025-09-04 16:09:16 | INFO | __main__:230 | #####################################
+
+2025-09-04 16:09:16.512 | INFO     | __main__:main:230 - #####################################
+
+2025-09-04 16:09:16 | INFO | __main__:232 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:09:16.512 | INFO     | __main__:main:232 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:09:16 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-04 16:09:16.512 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-04 16:09:16 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:09:16.512 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:10:20 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-04 16:10:20 | INFO | __main__:40 | Logger loaded.
+2025-09-04 16:10:20.409 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-04 16:10:20 | INFO | __main__:228 | #####################################
+2025-09-04 16:10:20.409 | INFO     | __main__:main:228 - #####################################
+2025-09-04 16:10:20 | INFO | __main__:229 | # Starting execution of main()
+2025-09-04 16:10:20.409 | INFO     | __main__:main:229 - # Starting execution of main()
+2025-09-04 16:10:20 | INFO | __main__:230 | #####################################
+
+2025-09-04 16:10:20.409 | INFO     | __main__:main:230 - #####################################
+
+2025-09-04 16:10:20 | INFO | __main__:232 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:10:20.409 | INFO     | __main__:main:232 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:10:20 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-04 16:10:20.409 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-04 16:10:20 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:10:20.409 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:11:44 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-04 16:11:44 | INFO | __main__:40 | Logger loaded.
+2025-09-04 16:11:44.919 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-04 16:11:44 | INFO | __main__:228 | #####################################
+2025-09-04 16:11:44.919 | INFO     | __main__:main:228 - #####################################
+2025-09-04 16:11:44 | INFO | __main__:229 | # Starting execution of main()
+2025-09-04 16:11:44.919 | INFO     | __main__:main:229 - # Starting execution of main()
+2025-09-04 16:11:44 | INFO | __main__:230 | #####################################
+
+2025-09-04 16:11:44.919 | INFO     | __main__:main:230 - #####################################
+
+2025-09-04 16:11:44 | INFO | __main__:232 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:11:44.919 | INFO     | __main__:main:232 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:11:44 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-04 16:11:44.919 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-04 16:11:44 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:11:44.919 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:12:17 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-04 16:12:17 | INFO | __main__:40 | Logger loaded.
+2025-09-04 16:12:17.089 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-04 16:12:17 | INFO | __main__:228 | #####################################
+2025-09-04 16:12:17.090 | INFO     | __main__:main:228 - #####################################
+2025-09-04 16:12:17 | INFO | __main__:229 | # Starting execution of main()
+2025-09-04 16:12:17.090 | INFO     | __main__:main:229 - # Starting execution of main()
+2025-09-04 16:12:17 | INFO | __main__:230 | #####################################
+
+2025-09-04 16:12:17.090 | INFO     | __main__:main:230 - #####################################
+
+2025-09-04 16:12:17 | INFO | __main__:232 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:12:17.090 | INFO     | __main__:main:232 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:12:17 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-04 16:12:17.090 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-04 16:12:17 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:12:17.090 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:12:36 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-04 16:12:36 | INFO | __main__:40 | Logger loaded.
+2025-09-04 16:12:36.050 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-04 16:12:36 | INFO | __main__:228 | #####################################
+2025-09-04 16:12:36.050 | INFO     | __main__:main:228 - #####################################
+2025-09-04 16:12:36 | INFO | __main__:229 | # Starting execution of main()
+2025-09-04 16:12:36.050 | INFO     | __main__:main:229 - # Starting execution of main()
+2025-09-04 16:12:36 | INFO | __main__:230 | #####################################
+
+2025-09-04 16:12:36.050 | INFO     | __main__:main:230 - #####################################
+
+2025-09-04 16:12:36 | INFO | __main__:232 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:12:36.050 | INFO     | __main__:main:232 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:12:36 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-04 16:12:36.050 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-04 16:12:36 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:12:36.050 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:12:36 | INFO | __main__:95 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2020
+2025-09-04 16:12:36.050 | INFO     | __main__:create_folders_for_range:95 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2020
+2025-09-04 16:12:36 | INFO | __main__:95 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2021
+2025-09-04 16:12:36.050 | INFO     | __main__:create_folders_for_range:95 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2021
+2025-09-04 16:12:36 | INFO | __main__:95 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2022
+2025-09-04 16:12:36.050 | INFO     | __main__:create_folders_for_range:95 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2022
+2025-09-04 16:12:36 | INFO | __main__:95 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2023
+2025-09-04 16:12:36.050 | INFO     | __main__:create_folders_for_range:95 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2023
+2025-09-04 16:12:36 | INFO | __main__:127 | FUNCTION: create_folders_from_list()
+2025-09-04 16:12:36.050 | INFO     | __main__:create_folders_from_list:127 - FUNCTION: create_folders_from_list()
+2025-09-04 16:12:36 | INFO | __main__:128 | PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-04 16:12:36.050 | INFO     | __main__:create_folders_from_list:128 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-04 16:12:36 | INFO | __main__:156 | FUNCTION: create_prefixed_folders()
+2025-09-04 16:12:36.050 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:156 - FUNCTION: create_prefixed_folders()
+2025-09-04 16:12:36 | INFO | __main__:157 | PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-04 16:12:36.050 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:157 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-04 16:12:36 | INFO | __main__:179 | FUNCTION: create_folders_periodically()
+2025-09-04 16:12:36.050 | INFO     | __main__:create_folders_periodically:179 - FUNCTION: create_folders_periodically()
+2025-09-04 16:12:36 | INFO | __main__:180 | PARAMETER: duration_seconds = 5
+2025-09-04 16:12:36.050 | INFO     | __main__:create_folders_periodically:180 - PARAMETER: duration_seconds = 5
+2025-09-04 16:14:16 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-04 16:14:16 | INFO | __main__:40 | Logger loaded.
+2025-09-04 16:14:16.407 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-04 16:14:16 | INFO | __main__:219 | #####################################
+2025-09-04 16:14:16.407 | INFO     | __main__:main:219 - #####################################
+2025-09-04 16:14:16 | INFO | __main__:220 | # Starting execution of main()
+2025-09-04 16:14:16.407 | INFO     | __main__:main:220 - # Starting execution of main()
+2025-09-04 16:14:16 | INFO | __main__:221 | #####################################
+
+2025-09-04 16:14:16.407 | INFO     | __main__:main:221 - #####################################
+
+2025-09-04 16:14:16 | INFO | __main__:223 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:14:16.407 | INFO     | __main__:main:223 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:14:16 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-04 16:14:16.408 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-04 16:14:16 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:14:16.408 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:15:23 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-04 16:15:23 | INFO | __main__:40 | Logger loaded.
+2025-09-04 16:15:23.657 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-04 16:15:23 | INFO | __main__:220 | #####################################
+2025-09-04 16:15:23.657 | INFO     | __main__:main:220 - #####################################
+2025-09-04 16:15:23 | INFO | __main__:221 | # Starting execution of main()
+2025-09-04 16:15:23.657 | INFO     | __main__:main:221 - # Starting execution of main()
+2025-09-04 16:15:23 | INFO | __main__:222 | #####################################
+
+2025-09-04 16:15:23.657 | INFO     | __main__:main:222 - #####################################
+
+2025-09-04 16:15:23 | INFO | __main__:224 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:15:23.657 | INFO     | __main__:main:224 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:15:23 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-04 16:15:23.658 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-04 16:15:23 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:15:23.658 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:15:23 | INFO | __main__:87 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2020
+2025-09-04 16:15:23.658 | INFO     | __main__:create_folders_for_range:87 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2020
+2025-09-04 16:15:23 | INFO | __main__:87 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2021
+2025-09-04 16:15:23.658 | INFO     | __main__:create_folders_for_range:87 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2021
+2025-09-04 16:15:23 | INFO | __main__:87 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2022
+2025-09-04 16:15:23.658 | INFO     | __main__:create_folders_for_range:87 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2022
+2025-09-04 16:15:23 | INFO | __main__:87 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2023
+2025-09-04 16:15:23.658 | INFO     | __main__:create_folders_for_range:87 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2023
+2025-09-04 16:15:23 | INFO | __main__:119 | FUNCTION: create_folders_from_list()
+2025-09-04 16:15:23.658 | INFO     | __main__:create_folders_from_list:119 - FUNCTION: create_folders_from_list()
+2025-09-04 16:15:23 | INFO | __main__:120 | PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-04 16:15:23.658 | INFO     | __main__:create_folders_from_list:120 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-04 16:15:23 | INFO | __main__:148 | FUNCTION: create_prefixed_folders()
+2025-09-04 16:15:23.658 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:148 - FUNCTION: create_prefixed_folders()
+2025-09-04 16:15:23 | INFO | __main__:149 | PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-04 16:15:23.658 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:149 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-04 16:15:23 | INFO | __main__:171 | FUNCTION: create_folders_periodically()
+2025-09-04 16:15:23.658 | INFO     | __main__:create_folders_periodically:171 - FUNCTION: create_folders_periodically()
+2025-09-04 16:15:23 | INFO | __main__:172 | PARAMETER: duration_seconds = 5
+2025-09-04 16:15:23.658 | INFO     | __main__:create_folders_periodically:172 - PARAMETER: duration_seconds = 5
+2025-09-04 16:17:40 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-04 16:17:40 | INFO | __main__:40 | Logger loaded.
+2025-09-04 16:17:40.798 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-04 16:17:40 | INFO | __main__:224 | #####################################
+2025-09-04 16:17:40.798 | INFO     | __main__:main:224 - #####################################
+2025-09-04 16:17:40 | INFO | __main__:225 | # Starting execution of main()
+2025-09-04 16:17:40.798 | INFO     | __main__:main:225 - # Starting execution of main()
+2025-09-04 16:17:40 | INFO | __main__:226 | #####################################
+
+2025-09-04 16:17:40.798 | INFO     | __main__:main:226 - #####################################
+
+2025-09-04 16:17:40 | INFO | __main__:228 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:17:40.798 | INFO     | __main__:main:228 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:17:40 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-04 16:17:40.798 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-04 16:17:40 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:17:40.798 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:18:51 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-04 16:18:51 | INFO | __main__:40 | Logger loaded.
+2025-09-04 16:18:51.246 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-04 16:18:51 | INFO | __main__:223 | #####################################
+2025-09-04 16:18:51.246 | INFO     | __main__:main:223 - #####################################
+2025-09-04 16:18:51 | INFO | __main__:224 | # Starting execution of main()
+2025-09-04 16:18:51.246 | INFO     | __main__:main:224 - # Starting execution of main()
+2025-09-04 16:18:51 | INFO | __main__:225 | #####################################
+
+2025-09-04 16:18:51.246 | INFO     | __main__:main:225 - #####################################
+
+2025-09-04 16:18:51 | INFO | __main__:227 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:18:51.246 | INFO     | __main__:main:227 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:18:51 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-04 16:18:51.246 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-04 16:18:51 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:18:51.246 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:19:21 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-04 16:19:21 | INFO | __main__:40 | Logger loaded.
+2025-09-04 16:19:21.688 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-04 16:19:21 | INFO | __main__:220 | #####################################
+2025-09-04 16:19:21.688 | INFO     | __main__:main:220 - #####################################
+2025-09-04 16:19:21 | INFO | __main__:221 | # Starting execution of main()
+2025-09-04 16:19:21.688 | INFO     | __main__:main:221 - # Starting execution of main()
+2025-09-04 16:19:21 | INFO | __main__:222 | #####################################
+
+2025-09-04 16:19:21.688 | INFO     | __main__:main:222 - #####################################
+
+2025-09-04 16:19:21 | INFO | __main__:224 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:19:21.688 | INFO     | __main__:main:224 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:19:21 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-04 16:19:21.688 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-04 16:19:21 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:19:21.688 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:19:21 | INFO | __main__:87 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2020
+2025-09-04 16:19:21.688 | INFO     | __main__:create_folders_for_range:87 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2020
+2025-09-04 16:19:21 | INFO | __main__:87 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2021
+2025-09-04 16:19:21.688 | INFO     | __main__:create_folders_for_range:87 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2021
+2025-09-04 16:19:21 | INFO | __main__:87 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2022
+2025-09-04 16:19:21.689 | INFO     | __main__:create_folders_for_range:87 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2022
+2025-09-04 16:19:21 | INFO | __main__:87 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2023
+2025-09-04 16:19:21.689 | INFO     | __main__:create_folders_for_range:87 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2023
+2025-09-04 16:19:21 | INFO | __main__:119 | FUNCTION: create_folders_from_list()
+2025-09-04 16:19:21.689 | INFO     | __main__:create_folders_from_list:119 - FUNCTION: create_folders_from_list()
+2025-09-04 16:19:21 | INFO | __main__:120 | PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-04 16:19:21.689 | INFO     | __main__:create_folders_from_list:120 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-04 16:19:21 | INFO | __main__:148 | FUNCTION: create_prefixed_folders()
+2025-09-04 16:19:21.689 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:148 - FUNCTION: create_prefixed_folders()
+2025-09-04 16:19:21 | INFO | __main__:149 | PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-04 16:19:21.689 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:149 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-04 16:19:21 | INFO | __main__:171 | FUNCTION: create_folders_periodically()
+2025-09-04 16:19:21.689 | INFO     | __main__:create_folders_periodically:171 - FUNCTION: create_folders_periodically()
+2025-09-04 16:19:21 | INFO | __main__:172 | PARAMETER: duration_seconds = 5
+2025-09-04 16:19:21.689 | INFO     | __main__:create_folders_periodically:172 - PARAMETER: duration_seconds = 5
+2025-09-04 16:25:10 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-04 16:25:10 | INFO | __main__:40 | Logger loaded.
+2025-09-04 16:25:10.426 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-04 16:25:10 | INFO | __main__:202 | #####################################
+2025-09-04 16:25:10.426 | INFO     | __main__:main:202 - #####################################
+2025-09-04 16:25:10 | INFO | __main__:203 | # Starting execution of main()
+2025-09-04 16:25:10.426 | INFO     | __main__:main:203 - # Starting execution of main()
+2025-09-04 16:25:10 | INFO | __main__:204 | #####################################
+
+2025-09-04 16:25:10.426 | INFO     | __main__:main:204 - #####################################
+
+2025-09-04 16:25:10 | INFO | __main__:206 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:25:10.426 | INFO     | __main__:main:206 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:25:10 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-04 16:25:10.426 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-04 16:25:10 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:25:10.426 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:25:10 | INFO | __main__:82 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2020
+2025-09-04 16:25:10.426 | INFO     | __main__:create_folders_for_range:82 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2020
+2025-09-04 16:25:10 | INFO | __main__:82 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2021
+2025-09-04 16:25:10.426 | INFO     | __main__:create_folders_for_range:82 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2021
+2025-09-04 16:25:10 | INFO | __main__:82 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2022
+2025-09-04 16:25:10.426 | INFO     | __main__:create_folders_for_range:82 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2022
+2025-09-04 16:25:10 | INFO | __main__:82 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2023
+2025-09-04 16:25:10.426 | INFO     | __main__:create_folders_for_range:82 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2023
+2025-09-04 16:25:10 | INFO | __main__:100 | FUNCTION: create_folders_from_list()
+2025-09-04 16:25:10.426 | INFO     | __main__:create_folders_from_list:100 - FUNCTION: create_folders_from_list()
+2025-09-04 16:25:10 | INFO | __main__:101 | PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-04 16:25:10.426 | INFO     | __main__:create_folders_from_list:101 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-04 16:25:44 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-04 16:25:44 | INFO | __main__:40 | Logger loaded.
+2025-09-04 16:25:44.576 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-04 16:25:44 | INFO | __main__:202 | #####################################
+2025-09-04 16:25:44.576 | INFO     | __main__:main:202 - #####################################
+2025-09-04 16:25:44 | INFO | __main__:203 | # Starting execution of main()
+2025-09-04 16:25:44.576 | INFO     | __main__:main:203 - # Starting execution of main()
+2025-09-04 16:25:44 | INFO | __main__:204 | #####################################
+
+2025-09-04 16:25:44.577 | INFO     | __main__:main:204 - #####################################
+
+2025-09-04 16:25:44 | INFO | __main__:206 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:25:44.577 | INFO     | __main__:main:206 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-04 16:25:44 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-04 16:25:44.577 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-04 16:25:44 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:25:44.577 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 16:25:44 | INFO | __main__:82 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2020
+2025-09-04 16:25:44.577 | INFO     | __main__:create_folders_for_range:82 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2020
+2025-09-04 16:25:44 | INFO | __main__:82 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2021
+2025-09-04 16:25:44.577 | INFO     | __main__:create_folders_for_range:82 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2021
+2025-09-04 16:25:44 | INFO | __main__:82 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2022
+2025-09-04 16:25:44.577 | INFO     | __main__:create_folders_for_range:82 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2022
+2025-09-04 16:25:44 | INFO | __main__:82 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2023
+2025-09-04 16:25:44.577 | INFO     | __main__:create_folders_for_range:82 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2023
+2025-09-04 16:25:44 | INFO | __main__:100 | FUNCTION: create_folders_from_list()
+2025-09-04 16:25:44.577 | INFO     | __main__:create_folders_from_list:100 - FUNCTION: create_folders_from_list()
+2025-09-04 16:25:44 | INFO | __main__:101 | PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-04 16:25:44.577 | INFO     | __main__:create_folders_from_list:101 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-04 16:26:08 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-04 16:26:08 | INFO | __main__:40 | Logger loaded.
+2025-09-04 16:26:08.513 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-04 16:26:08 | INFO | __main__:202 | #####################################
+2025-09-04 16:26:08.513 | INFO     | __main__:main:202 - #####################################
+2025-09-04 16:26:08 | INFO | __main__:203 | # Starting execution of main()
+2025-09-04 16:26:08.513 | INFO     | __main__:main:203 - # Starting execution of main()
+2025-09-04 16:26:08 | INFO | __main__:204 | #####################################
+
