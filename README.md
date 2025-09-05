@@ -6,12 +6,12 @@ CC2.1: Start a Python Automation Project
 Utilities for scripting project folders
 
 *****************************************************
-Features 5 functions which
-    1- create local folders from a range of integers
-    2- create local folders given a list of string names
-    3- create local folders given a list of string names and appending a specific prefix onto the beginning of every folder
-    4- create local folders every X seconds (with a 60 second time limit)
-    5- convert a list of folder names by removing spaces & making all-lowercase  
+Features 5 functions which: 
+    1- create local folders from a range of integers.
+    2- create local folders given a list of string names.
+    3- create local folders given a list of string names and appending a specific prefix onto the beginning of every folder.
+    4- create local folders every X seconds (with a 60 second time limit).
+    5- create a list of folder names after removing spaces & making all-lowercase according to booleans.
 *****************************************************
 
 ## Project Requirements

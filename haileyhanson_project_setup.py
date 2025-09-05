@@ -147,7 +147,7 @@ def create_folders_periodically(duration_seconds: int) -> None:
     '''
     Create folders periodically over time.
     Time limit is set to 60 seconds - no folders created after & function exits. 
-    
+
     Arguments:
     duration_seconds -- The number of seconds to wait between folder creations.
     '''    
@@ -205,9 +205,12 @@ def create_standardized_folders(folder_list: list, to_lowercase: bool = False, r
             folder = folder.lower() #set to lowercase
         if remove_spaces: 
             folder = folder.replace(" ", "") #replace spaces with nothing
+        new_path :str = str(ROOT_DIR) + "/" + str(folder) 
+        os.makedirs(new_path, exist_ok=True)
+        logger.info(f"Created folder: {new_path}") 
 
+        
 
-  
 #####################################
 # Define a main() function for this module.
 #####################################
