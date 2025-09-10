@@ -28,7 +28,7 @@ import statistics
 
 # Import external packages
 import loguru  # Easy logging
-import pyttsx3  # type: ignore # Text-to-speech engine
+#import pyttsx3  # type: ignore # Text-to-speech engine
 
 #####################################
 # Configure Simple Logger (better than print statements)

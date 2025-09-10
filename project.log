@@ -521,3 +521,142 @@ Number of Locations:        3
 2025-09-04 20:18:25.494 | INFO     | __main__:main:247 - # Completed execution of main()
 2025-09-04 20:18:25 | INFO | __main__:248 | #####################################
 2025-09-04 20:18:25.499 | INFO     | __main__:main:248 - #####################################
+2025-09-10 16:42:19 | INFO | utils_haileyhanson:46 | Logger loaded.
+2025-09-10 16:42:19 | INFO | __main__:39 | Logger loaded.
+2025-09-10 16:42:19.408 | INFO     | __main__:<module>:39 - Logger loaded.
+2025-09-10 16:42:19 | INFO | __main__:221 | #####################################
+2025-09-10 16:42:19.408 | INFO     | __main__:main:221 - #####################################
+2025-09-10 16:42:19 | INFO | __main__:222 | # Starting execution of main()
+2025-09-10 16:42:19.408 | INFO     | __main__:main:222 - # Starting execution of main()
+2025-09-10 16:42:19 | INFO | __main__:223 | #####################################
+
+2025-09-10 16:42:19.408 | INFO     | __main__:main:223 - #####################################
+
+2025-09-10 16:42:19 | INFO | __main__:225 | Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-10 16:42:19.408 | INFO     | __main__:main:225 - Byline: 
+**********************************************************
+Mystic Analytics — Project Header
+**********************************************************
+Author:                     Hailey Hanson
+Motto:                      Hazy. Mysterious. Outside of Time.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+Is Hiring:                  False
+Number of Employees:        25
+Location:                   Venus, Oregon
+Office Locations:           ['Samadhi', 'Nirvana', 'Enlightenment']
+Number of Locations:        3
+**********************************************************
+
+2025-09-10 16:42:19 | INFO | __main__:75 | FUNCTION: create_folders_for_range()
+2025-09-10 16:42:19.408 | INFO     | __main__:create_folders_for_range:75 - FUNCTION: create_folders_for_range()
+2025-09-10 16:42:19 | INFO | __main__:76 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-10 16:42:19.408 | INFO     | __main__:create_folders_for_range:76 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-10 16:42:19 | INFO | __main__:81 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2020
+2025-09-10 16:42:19.408 | INFO     | __main__:create_folders_for_range:81 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2020
+2025-09-10 16:42:19 | INFO | __main__:81 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2021
+2025-09-10 16:42:19.408 | INFO     | __main__:create_folders_for_range:81 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2021
+2025-09-10 16:42:19 | INFO | __main__:81 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2022
+2025-09-10 16:42:19.408 | INFO     | __main__:create_folders_for_range:81 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2022
+2025-09-10 16:42:19 | INFO | __main__:81 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2023
+2025-09-10 16:42:19.408 | INFO     | __main__:create_folders_for_range:81 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/2023
+2025-09-10 16:42:19 | INFO | __main__:99 | FUNCTION: create_folders_from_list()
+2025-09-10 16:42:19.408 | INFO     | __main__:create_folders_from_list:99 - FUNCTION: create_folders_from_list()
+2025-09-10 16:42:19 | INFO | __main__:100 | PARAMETER: folder_list = ['data- Csv', 'data-excel', 'data-json']
+2025-09-10 16:42:19.408 | INFO     | __main__:create_folders_from_list:100 - PARAMETER: folder_list = ['data- Csv', 'data-excel', 'data-json']
+2025-09-10 16:42:19 | INFO | __main__:108 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/data-csv
+2025-09-10 16:42:19.408 | INFO     | __main__:create_folders_from_list:108 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/data-csv
+2025-09-10 16:42:19 | INFO | __main__:108 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/data-excel
+2025-09-10 16:42:19.408 | INFO     | __main__:create_folders_from_list:108 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/data-excel
+2025-09-10 16:42:19 | INFO | __main__:108 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/data-json
+2025-09-10 16:42:19.408 | INFO     | __main__:create_folders_from_list:108 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/data-json
+2025-09-10 16:42:19 | INFO | __main__:130 | FUNCTION: create_prefixed_folders()
+2025-09-10 16:42:19.408 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:130 - FUNCTION: create_prefixed_folders()
+2025-09-10 16:42:19 | INFO | __main__:131 | PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-10 16:42:19.408 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:131 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-10 16:42:19 | INFO | __main__:136 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/output-csv
+2025-09-10 16:42:19.408 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:136 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/output-csv
+2025-09-10 16:42:19 | INFO | __main__:136 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/output-excel
+2025-09-10 16:42:19.408 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:136 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/output-excel
+2025-09-10 16:42:19 | INFO | __main__:136 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/output-json
+2025-09-10 16:42:19.408 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:136 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/output-json
+2025-09-10 16:42:19 | INFO | __main__:154 | FUNCTION: create_folders_periodically()
+2025-09-10 16:42:19.408 | INFO     | __main__:create_folders_periodically:154 - FUNCTION: create_folders_periodically()
+2025-09-10 16:42:19 | INFO | __main__:155 | PARAMETER: duration_seconds = 5
+2025-09-10 16:42:19.408 | INFO     | __main__:create_folders_periodically:155 - PARAMETER: duration_seconds = 5
+2025-09-10 16:42:19 | INFO | __main__:164 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/mkdir_at_0_seconds
+2025-09-10 16:42:19.408 | INFO     | __main__:create_folders_periodically:164 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/mkdir_at_0_seconds
+2025-09-10 16:42:19 | INFO | __main__:166 | Sleeping for 5 seconds
+2025-09-10 16:42:19.409 | INFO     | __main__:create_folders_periodically:166 - Sleeping for 5 seconds
+2025-09-10 16:42:44 | INFO | __main__:164 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/mkdir_at_15_seconds
+2025-09-10 16:42:44.418 | INFO     | __main__:create_folders_periodically:164 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/mkdir_at_15_seconds
+2025-09-10 16:42:44 | INFO | __main__:166 | Sleeping for 5 seconds
+2025-09-10 16:42:44.421 | INFO     | __main__:create_folders_periodically:166 - Sleeping for 5 seconds
+2025-09-10 16:43:09 | INFO | __main__:164 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/mkdir_at_30_seconds
+2025-09-10 16:43:09.432 | INFO     | __main__:create_folders_periodically:164 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/mkdir_at_30_seconds
+2025-09-10 16:43:09 | INFO | __main__:166 | Sleeping for 5 seconds
+2025-09-10 16:43:09.434 | INFO     | __main__:create_folders_periodically:166 - Sleeping for 5 seconds
+2025-09-10 16:43:34 | INFO | __main__:164 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/mkdir_at_45_seconds
+2025-09-10 16:43:34.444 | INFO     | __main__:create_folders_periodically:164 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/mkdir_at_45_seconds
+2025-09-10 16:43:34 | INFO | __main__:166 | Sleeping for 5 seconds
+2025-09-10 16:43:34.446 | INFO     | __main__:create_folders_periodically:166 - Sleeping for 5 seconds
+2025-09-10 16:43:59 | INFO | __main__:164 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/mkdir_at_60_seconds
+2025-09-10 16:43:59.454 | INFO     | __main__:create_folders_periodically:164 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/mkdir_at_60_seconds
+2025-09-10 16:43:59 | INFO | __main__:166 | Sleeping for 5 seconds
+2025-09-10 16:43:59.456 | INFO     | __main__:create_folders_periodically:166 - Sleeping for 5 seconds
+2025-09-10 16:44:14 | INFO | __main__:171 | Exceeded 60 second limit. Exiting at : 65
+2025-09-10 16:44:14.460 | INFO     | __main__:create_folders_periodically:171 - Exceeded 60 second limit. Exiting at : 65
+2025-09-10 16:44:14 | INFO | __main__:200 | FUNCTION: create_standardized_folders()
+2025-09-10 16:44:14.462 | INFO     | __main__:create_standardized_folders:200 - FUNCTION: create_standardized_folders()
+2025-09-10 16:44:14 | INFO | __main__:201 | PARAMETERS: folder_list = ['North America', 'South America', 'Europe', 'Asia', 'Africa', 'Oceania', 'Middle East'], to_lowercase = True, remove_spaces = True
+2025-09-10 16:44:14.463 | INFO     | __main__:create_standardized_folders:201 - PARAMETERS: folder_list = ['North America', 'South America', 'Europe', 'Asia', 'Africa', 'Oceania', 'Middle East'], to_lowercase = True, remove_spaces = True
+2025-09-10 16:44:14 | INFO | __main__:210 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/northamerica
+2025-09-10 16:44:14.463 | INFO     | __main__:create_standardized_folders:210 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/northamerica
+2025-09-10 16:44:14 | INFO | __main__:210 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/southamerica
+2025-09-10 16:44:14.464 | INFO     | __main__:create_standardized_folders:210 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/southamerica
+2025-09-10 16:44:14 | INFO | __main__:210 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/europe
+2025-09-10 16:44:14.464 | INFO     | __main__:create_standardized_folders:210 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/europe
+2025-09-10 16:44:14 | INFO | __main__:210 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/asia
+2025-09-10 16:44:14.464 | INFO     | __main__:create_standardized_folders:210 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/asia
+2025-09-10 16:44:14 | INFO | __main__:210 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/africa
+2025-09-10 16:44:14.465 | INFO     | __main__:create_standardized_folders:210 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/africa
+2025-09-10 16:44:14 | INFO | __main__:210 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/oceania
+2025-09-10 16:44:14.465 | INFO     | __main__:create_standardized_folders:210 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/oceania
+2025-09-10 16:44:14 | INFO | __main__:210 | Created folder: /Users/haileyhanson/Repos/datafun-02-automation/middleeast
+2025-09-10 16:44:14.465 | INFO     | __main__:create_standardized_folders:210 - Created folder: /Users/haileyhanson/Repos/datafun-02-automation/middleeast
+2025-09-10 16:44:14 | INFO | __main__:246 | 
+#####################################
+2025-09-10 16:44:14.465 | INFO     | __main__:main:246 - 
+#####################################
+2025-09-10 16:44:14 | INFO | __main__:247 | # Completed execution of main()
+2025-09-10 16:44:14.465 | INFO     | __main__:main:247 - # Completed execution of main()
+2025-09-10 16:44:14 | INFO | __main__:248 | #####################################
+2025-09-10 16:44:14.465 | INFO     | __main__:main:248 - #####################################
